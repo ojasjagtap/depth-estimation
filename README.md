@@ -1,4 +1,4 @@
-# Depth Estimation
+# Stereo Depth Estimation
 
 ## Introduction
 This project implements a stereo vision system that estimates depth from two camera views.
